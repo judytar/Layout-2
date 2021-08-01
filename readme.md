@@ -1,4 +1,4 @@
-Projekt 2
+Projekt nr 2
 
 ---------------
 opis
