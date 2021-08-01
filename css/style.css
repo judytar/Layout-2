@@ -3,7 +3,7 @@
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .header {
@@ -55,7 +55,7 @@
 
 .header__navLink {
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 60px;
   color: #fff;
   text-decoration: none;
@@ -64,7 +64,7 @@
 }
 
 .header__navLink:hover {
-  color: #00B6DC;
+  color: #f56f90;
 }
 
 .start {
@@ -96,6 +96,6 @@
 }
 
 .start__headerBlue {
-  color: #00B6DC;
+  color: #f56f90;
 }
 /*# sourceMappingURL=style.css.map */
