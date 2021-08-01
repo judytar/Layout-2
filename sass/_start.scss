@@ -1,0 +1,29 @@
+.start {
+    height: 100vh;
+    background-image: url('/img/startbg.jpg');
+    background-position: center;
+    background-size: cover;
+
+    &__container {
+        @include container;
+        position: relative;
+        height: 100%;
+    }
+
+    &__box {
+        position: absolute;
+        bottom: 20%;
+        left: 15px;
+    }
+
+    &__header {
+        font-size: 40px;
+        font-weight: 300;
+        line-height: 60px;
+        color: $cWhite;
+    }
+
+    &__headerBlue {
+        color: $cBlue;
+    }
+}
